@@ -10,16 +10,19 @@ data:
     Data Appendix.pdf
 
 output:
-chi_square_cases_by_region.png
-chi_square_deaths_by_region.png
-sarima_cases_comparison_by_region_table.png
-sarima_deaths_comparison_by_region_table.png
-sarima_forecast_plots_by_region_cases.pdf
-sarima_forecast_plots_by_region_deaths.pdf
+
+    chi_square_cases_by_region.png
+    chi_square_deaths_by_region.png
+    sarima_cases_comparison_by_region_table.png
+    sarima_deaths_comparison_by_region_table.png
+    sarima_forecast_plots_by_region_cases.pdf
+    sarima_forecast_plots_by_region_deaths.pdf
 
 scripts:
 
-ALL_CODE_PLUS_OUTPUTS.ipynb | LICENSE.md | README.md
+    ALL_CODE_PLUS_OUTPUTS.ipynb
+    LICENSE.md
+    README.md
 
 
 ## Section 3: Instructions for reproducing your results. 
