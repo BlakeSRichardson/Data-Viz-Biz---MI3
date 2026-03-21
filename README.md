@@ -5,7 +5,9 @@ The only software needed for this project is a Google Colab Jupyter Notebook. No
 ## Section 2: A Map of your documentation. 
 data:  
 
-COVID Dataset.csv | Data Link | Data Appendix.pdf
+    COVID Dataset.csv
+    Data Link
+    Data Appendix.pdf
 
 output:
 chi_square_cases_by_region.png
